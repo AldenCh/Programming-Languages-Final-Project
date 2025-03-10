@@ -16,9 +16,9 @@ An example of all the syntax and functionality provided in this language is give
    - Subtraction: **-**
    - Multiplication: **\***
    - Division: **/**
-4. String concatenation and operations
-   - **"test" * 2** will return **"testtest"**
-   - **"My name is " ++ "Alden"** will return **"My name is Alden**
+4. String operations
+   - String multiplication: **"test" * 2** will return **"testtest"**
+   - String concatenation: **"My name is " ++ "Alden"** will return **"My name is Alden**
 5. Loops
    - For loop: **for(i in 1..2) {}**
    - While loop: **while (a > 0) {}**
